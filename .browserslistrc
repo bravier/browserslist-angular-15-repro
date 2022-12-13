@@ -1,0 +1,4 @@
+supports es6-module
+not dead
+not safari tp
+not IE <= 11
